@@ -1,4 +1,4 @@
-Problema 1:
+**Bold**Problema 1:
 Uma lata cilíndrica deve ter a capacidade de V 𝑐𝑚3 . O material do topo e base da lata custa R$ X por 𝑚2 , enquanto que o material com o qual os lados são feitos custa R$ Y por 𝑚2 . Encontre o raio da base e a altura da lata que minimiza o custo da lata.
 
 Dados de entrada: V, X e Y.
